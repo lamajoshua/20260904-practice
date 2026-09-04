@@ -1,7 +1,13 @@
 [
+    {
+    "id": 1,
+    "title": "TypeScriptの基本構文を復習する",
+    "completed": true
+  },
   {
     "id": 2,
-    "completed": true
+    "title": "Expressでルーティングを作成する",
+    "completed": false
   },
   {
     "id": 3,
